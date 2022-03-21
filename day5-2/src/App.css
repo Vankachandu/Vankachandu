@@ -1,0 +1,25 @@
+
+.card {
+  
+  margin-bottom: 40px;
+  margin-left: 28%;
+  color: black;
+  background-color: wheat;
+  border-style: solid;
+  border-color: black;
+  transition: 0.3s;
+  width: 50%;
+}
+.move{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  padding-right:200px;
+}
+.b{
+  border-left: 6px solid rgb(16, 17, 16);
+  height: 500px;
+  margin-left:850px;
+  margin-bottom: 900px;
+
+}
